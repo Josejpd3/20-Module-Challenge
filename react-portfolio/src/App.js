@@ -5,6 +5,7 @@ import './App.css';
 // Components
 
 import Nav from './components/Nav';
+import About from './components/About';
 
 function App() {
   return (
