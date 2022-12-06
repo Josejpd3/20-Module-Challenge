@@ -20,6 +20,15 @@ function App() {
         showProjects={() => setPageIndex(0)}
         showContact={() => setPageIndex(0)}
       />
+      {pageIndex === 0 ? (
+        <About />
+      ) : pageIndex === 1 ? (
+        <Portfolio />
+      ) : pageIndex === 2 ? (
+        <Contact />
+      ) : (
+        <About />
+      )}
     </div>
   );
 }
