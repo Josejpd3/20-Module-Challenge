@@ -15,7 +15,11 @@ function App() {
 
   return (
     <div className="App">
-
+      <Nav
+        showAbout={() => setPageIndex(0)}
+        showProjects={() => setPageIndex(0)}
+        showContact={() => setPageIndex(0)}
+      />
     </div>
   );
 }
