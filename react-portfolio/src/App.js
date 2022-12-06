@@ -17,8 +17,8 @@ function App() {
     <div className="App">
       <Nav
         showAbout={() => setPageIndex(0)}
-        showProjects={() => setPageIndex(0)}
-        showContact={() => setPageIndex(0)}
+        showProjects={() => setPageIndex(1)}
+        showContact={() => setPageIndex(2)}
       />
       {pageIndex === 0 ? (
         <About />
