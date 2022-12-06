@@ -9,3 +9,5 @@ const Nav = ({ showAbout, showProjects, showContact }) => {
         </div>
     );
 }
+
+export default Nav;
