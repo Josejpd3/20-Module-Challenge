@@ -8,6 +8,7 @@ import Nav from './components/Nav';
 import About from './components/About';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
+import Resume from './components/Resume';
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
         showAbout={() => setPageIndex(0)}
         showProjects={() => setPageIndex(1)}
         showContact={() => setPageIndex(2)}
+        showResume={() => setPageIndex(3)}
       />
       {pageIndex === 0 ? (
         <About />
@@ -26,6 +28,8 @@ function App() {
         <Portfolio />
       ) : pageIndex === 2 ? (
         <Contact />
+      ) : pageIndex === 3 ? (
+        <Resume />
       ) : (
         <About />
       )}
