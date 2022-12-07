@@ -4,7 +4,7 @@ import NavSec from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-const Nav = ({ showAbout, showProjects, showContact }) => {
+const Nav = ({ showAbout, showProjects, showContact, showResume }) => {
     return (
         <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
         <Container>
@@ -14,6 +14,7 @@ const Nav = ({ showAbout, showProjects, showContact }) => {
               <NavSec.Link onClick={showAbout}>About</NavSec.Link>
               <NavSec.Link onClick={showProjects}>Projects</NavSec.Link>
               <NavSec.Link onClick={showContact}>Contact</NavSec.Link>
+              <NavSec.Link onClick={showResume}>Resume</NavSec.Link>
             </NavSec>
           </Navbar.Collapse>
         </Container>
