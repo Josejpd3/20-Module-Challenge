@@ -6,11 +6,11 @@ header {
     background-color: rgb(35, 35, 35);
 }
 
-h1, button {
+header h1, nav button {
     color: white
 }
 
-button {
+nav button {
     margin-left: 20px;
     margin-right: 20px;
     font-size: 30px;
