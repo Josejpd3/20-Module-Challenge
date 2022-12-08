@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: rgb(35, 35, 35);
+}
+
+h1, button {
+    color: white
+}
+
+button {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 30px;
+    background-color: transparent;
+    border: none;
+}
