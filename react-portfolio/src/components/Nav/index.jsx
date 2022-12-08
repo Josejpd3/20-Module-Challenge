@@ -3,6 +3,7 @@ import Container from 'react-bootstrap/Container';
 import NavSec from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './nav.css';
 
 const Nav = ({ showAbout, showProjects, showContact, showResume }) => {
     return (
