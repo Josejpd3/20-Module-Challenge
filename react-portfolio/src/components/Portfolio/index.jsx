@@ -7,6 +7,7 @@ const Portfolio = ({projects}) => {
 
     return (
         <div>
+            <h2>Projects</h2>
             <div style={{display: 'flex', flexWrap: 'wrap', justifyContent: 'space-evenly'}}>
             {projects.map((project) => (
                 <div key={project.name} className="card m-3" style={{width: "900px"}}>
