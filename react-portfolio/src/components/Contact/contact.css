@@ -1,5 +1,5 @@
 #contactForm {
-    background: black;
+    background: rgb(8, 8, 8);
     border-radius: 20px;
     margin-top: 80px;
     padding-top: 30px;
@@ -15,6 +15,12 @@
     padding: 10px;
     width: 350px;
     text-align: center;
+}
+
+#contactForm .btn {
+    background-color: rgb(2, 99, 2);
+    padding: 10px;
+    width: 335px;
 }
 
 
@@ -36,11 +42,11 @@
     position: fixed;
     width: 100vw;
     height: 100vh;
-    top: 0;
+    top: 0px;
     left: 0;
-    margin: 0;
+    margin-top: 55px;
     padding: 0;
-    background: #121212;
+    background-color: rgb(35, 35, 35);
     overflow: hidden;
 }
 .background li {
