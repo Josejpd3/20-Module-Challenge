@@ -18,3 +18,9 @@ import jquery from './icons/jquery-icon.svg';
 import mysql from './icons/mysql-icon.svg';
 import nodejs from './icons/nodejs-icon.svg';
 import sequelizejs from './icons/sequelize-seeklogo.com.svg';
+
+
+
+const projects = [
+
+];
