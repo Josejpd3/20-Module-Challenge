@@ -10,6 +10,8 @@ import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 import Resume from './components/Resume';
 
+import projects from './components/Portfolio/projects';
+
 function App() {
 
   const [pageIndex, setPageIndex] = useState(0);
@@ -25,7 +27,7 @@ function App() {
       {pageIndex === 0 ? (
         <About />
       ) : pageIndex === 1 ? (
-        <Portfolio />
+        <Portfolio projects={projects}/>
       ) : pageIndex === 2 ? (
         <Contact />
       ) : pageIndex === 3 ? (
