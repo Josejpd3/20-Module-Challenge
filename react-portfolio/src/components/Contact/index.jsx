@@ -4,7 +4,6 @@ import './contact.css';
 const Contact = () => {
     return (
         <div>
-            
             <ul class="background">
                 <li></li>
                 <li></li>
@@ -31,6 +30,8 @@ const Contact = () => {
                             <label class="form-label" htmlFor="message">Message</label>
                             <textarea class="form-control" id="message" type="text" placeholder="Message" required></textarea>
                         </div>
+
+                        <button type="submit" class="btn">Submit</button>
                     </form>
                 </div>
             </ul>
