@@ -113,3 +113,5 @@ const projects = [
         deployed: "https://cinemafiles-by-cinemaphiles.herokuapp.com/",
     }
 ];
+
+export default projects;
