@@ -1,13 +1,27 @@
 {
   "files": {
-    "main.css": "/20-Module-Challenge/static/css/main.4fa3d0b7.css",
-    "main.js": "/20-Module-Challenge/static/js/main.e2b638ff.js",
+    "main.css": "/20-Module-Challenge/static/css/main.410681ad.css",
+    "main.js": "/20-Module-Challenge/static/js/main.7d5840c0.js",
+    "static/media/nomadic-adventures.jpg": "/20-Module-Challenge/static/media/nomadic-adventures.770402c8e61c4fa1f86b.jpg",
+    "static/media/cinemafiles.jpg": "/20-Module-Challenge/static/media/cinemafiles.5a8e605498a266ba2460.jpg",
+    "static/media/api-svgrepo-com.svg": "/20-Module-Challenge/static/media/api-svgrepo-com.c26a29896ae5020edb4605eda3266667.svg",
+    "static/media/sequelize-seeklogo.com.svg": "/20-Module-Challenge/static/media/sequelize-seeklogo.com.effe73f64586f4a440e90e51a568921c.svg",
+    "static/media/jquery-icon.svg": "/20-Module-Challenge/static/media/jquery-icon.3b8ad1b8e0cfd4079e5168f030abf2a5.svg",
+    "static/media/mysql-icon.svg": "/20-Module-Challenge/static/media/mysql-icon.4c50926040e5a77a27dba211addc08e3.svg",
+    "static/media/nodejs-icon.svg": "/20-Module-Challenge/static/media/nodejs-icon.502737ea1f44b9be4170cafd2bace4e7.svg",
+    "static/media/handlebarsjs-icon.svg": "/20-Module-Challenge/static/media/handlebarsjs-icon.8bf971ba3a32ae405a8099b9cb34c3e7.svg",
+    "static/media/expressjs-icon.svg": "/20-Module-Challenge/static/media/expressjs-icon.632d3c32e6c8f71f7f7faf4fb71b945b.svg",
+    "static/media/javascript.svg": "/20-Module-Challenge/static/media/javascript.8dea1c9556de18c63385d0eb2480dba8.svg",
     "index.html": "/20-Module-Challenge/index.html",
-    "main.4fa3d0b7.css.map": "/20-Module-Challenge/static/css/main.4fa3d0b7.css.map",
-    "main.e2b638ff.js.map": "/20-Module-Challenge/static/js/main.e2b638ff.js.map"
+    "static/media/git-scm-icon.svg": "/20-Module-Challenge/static/media/git-scm-icon.6d27b5e0cde4ddb87e031ca706aa8350.svg",
+    "static/media/html.svg": "/20-Module-Challenge/static/media/html.87f3f64abde68319b96661c04229b687.svg",
+    "static/media/bulma.svg": "/20-Module-Challenge/static/media/bulma.6940655a13ba6fd7cd04acacaa3e91ad.svg",
+    "static/media/css.svg": "/20-Module-Challenge/static/media/css.c568b0a809c90322ea9f72e01d1e7cba.svg",
+    "main.410681ad.css.map": "/20-Module-Challenge/static/css/main.410681ad.css.map",
+    "main.7d5840c0.js.map": "/20-Module-Challenge/static/js/main.7d5840c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fa3d0b7.css",
-    "static/js/main.e2b638ff.js"
+    "static/css/main.410681ad.css",
+    "static/js/main.7d5840c0.js"
   ]
 }
