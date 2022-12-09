@@ -22,5 +22,41 @@ import sequelizejs from './icons/sequelize-seeklogo.com.svg';
 
 
 const projects = [
-
+    {
+        name: "Nomadic Adventures",
+        desc: "Nomadic Adventures is an online travel site that allows the user to search their desire location of travel and return the best airfare for that location.",
+        imgPath: nomadicAdventures,
+        tech: [
+            {
+                name: "HTML",
+                path: html
+            },
+            {
+                name: "CSS",
+                path: css
+            },
+            {
+                name: "javaScript",
+                path: javascript
+            },
+            {
+                name: "bulma",
+                path: bulma
+            },
+            {
+                name: "JQuery",
+                path: jquery
+            },
+            {
+                name: "API",
+                path: api
+            },
+            {
+                name: "Git",
+                path: git
+            },
+        ],
+        repo: "https://github.com/JesusGonzalez05/Boolean-hooligans",
+        deployed: "https://jesusgonzalez05.github.io/Boolean-hooligans/",
+    },
 ];
