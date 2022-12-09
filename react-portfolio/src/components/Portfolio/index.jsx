@@ -7,6 +7,17 @@ const Portfolio = ({projects}) => {
 
     return (
         <div>
+            <ul class="background">
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
             <h2>Projects</h2>
             <div style={{display: 'flex', flexWrap: 'wrap', justifyContent: 'space-evenly'}}>
             {projects.map((project) => (
@@ -32,8 +43,9 @@ const Portfolio = ({projects}) => {
                     </div>
                 </div>
             ))}
+            </div>
+            </ul>
         </div>
-    </div>
     );
 }
 
