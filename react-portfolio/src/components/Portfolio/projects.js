@@ -59,4 +59,57 @@ const projects = [
         repo: "https://github.com/JesusGonzalez05/Boolean-hooligans",
         deployed: "https://jesusgonzalez05.github.io/Boolean-hooligans/",
     },
+    {
+        name: "Cinemafiles",
+        desc: "This application allows users to browse through movies and tv show or search for specific titles. Access movie reviews and post your own by signing up.",
+        imgPath: cinemafiles,
+        tech: [
+            {
+                name: "HTML",
+                path: html
+            },
+            {
+                name: "CSS",
+                path: css
+            },
+            {
+                name: "javaScript",
+                path: javascript
+            },
+            {
+                name: "Nodejs",
+                path: nodejs
+            },
+            {
+                name: "bulma",
+                path: bulma
+            },
+            {
+                name: "MySQL",
+                path: mysql
+            },
+            {
+                name: "Sequelize",
+                path: sequelizejs
+            },
+            {
+                name: "Handlebars.js",
+                path: handlebarsjs
+            },
+            {
+                name: "Express.js",
+                path: expressjs
+            },
+            {
+                name: "API",
+                path: api
+            },
+            {
+                name: "Git",
+                path: git
+            },
+        ],
+        repo: "https://github.com/sangki810/Project-2-The-Cinemaphiles",
+        deployed: "https://cinemafiles-by-cinemaphiles.herokuapp.com/",
+    }
 ];
