@@ -19,6 +19,12 @@ const Portfolio = ({projects}) => {
                         <div className="card-title"><h5>{project.name}</h5><span><a href={project.deployed}>Live</a><a href={project.repo}>Github</a></span></div>
                         <p className="card-text">{project.desc}</p>
                     </div>
+                    <span className="project-tech">
+                        <p>Technologies Used:</p>
+                        {project.tech.map((technologies) => (
+                            <span key={technologies.name} className="project-logo"><img src={technologies.path} alt={technologies.name} title={technologies.name}/>{technologies.name}</span>
+                        ))}
+                    </span>
                     </div>
                 </div>
                 </div>
