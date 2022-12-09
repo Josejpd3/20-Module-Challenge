@@ -15,7 +15,10 @@ const Portfolio = ({projects}) => {
                 </div>
                 <div className="col-md-8">
                     <div className="card-body">
-
+                    <div className="proj-desc">
+                        <div className="card-title"><h5>{project.name}</h5><span><a href={project.deployed}>Live</a><a href={project.repo}>Github</a></span></div>
+                        <p className="card-text">{project.desc}</p>
+                    </div>
                     </div>
                 </div>
                 </div>
