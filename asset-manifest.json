@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/20-Module-Challenge/static/css/main.410681ad.css",
-    "main.js": "/20-Module-Challenge/static/js/main.7d5840c0.js",
+    "main.css": "/20-Module-Challenge/static/css/main.104779f0.css",
+    "main.js": "/20-Module-Challenge/static/js/main.2d4ebc1c.js",
+    "static/media/joseplasencia-circle.png": "/20-Module-Challenge/static/media/joseplasencia-circle.65fcd1b01df7b936087c.png",
     "static/media/nomadic-adventures.jpg": "/20-Module-Challenge/static/media/nomadic-adventures.770402c8e61c4fa1f86b.jpg",
     "static/media/cinemafiles.jpg": "/20-Module-Challenge/static/media/cinemafiles.5a8e605498a266ba2460.jpg",
     "static/media/api-svgrepo-com.svg": "/20-Module-Challenge/static/media/api-svgrepo-com.c26a29896ae5020edb4605eda3266667.svg",
@@ -17,11 +18,11 @@
     "static/media/html.svg": "/20-Module-Challenge/static/media/html.87f3f64abde68319b96661c04229b687.svg",
     "static/media/bulma.svg": "/20-Module-Challenge/static/media/bulma.6940655a13ba6fd7cd04acacaa3e91ad.svg",
     "static/media/css.svg": "/20-Module-Challenge/static/media/css.c568b0a809c90322ea9f72e01d1e7cba.svg",
-    "main.410681ad.css.map": "/20-Module-Challenge/static/css/main.410681ad.css.map",
-    "main.7d5840c0.js.map": "/20-Module-Challenge/static/js/main.7d5840c0.js.map"
+    "main.104779f0.css.map": "/20-Module-Challenge/static/css/main.104779f0.css.map",
+    "main.2d4ebc1c.js.map": "/20-Module-Challenge/static/js/main.2d4ebc1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.410681ad.css",
-    "static/js/main.7d5840c0.js"
+    "static/css/main.104779f0.css",
+    "static/js/main.2d4ebc1c.js"
   ]
 }
